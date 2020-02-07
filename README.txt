@@ -1,5 +1,8 @@
 Group Memebers: Samuel Smetzer and James Rodriguez
 
+Program compares the time efficiencies for the Middle-school and Euclid's algortihms in the GCD problem.
+
+
 To run the program:
 	- type 'make' in console to compile the program
 	- type './algprog' to run the program
